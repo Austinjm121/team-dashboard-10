@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Team-Dashboard-10
 
 
@@ -55,6 +54,3 @@ In addition to being deployed on heroku for a limited time, you can locally host
 ## Acknowledgments
 
 Other classmate's help
-=======
-# team-dashboard-10
->>>>>>> 027c5c80cca6063072d22631821ead12d6774692
