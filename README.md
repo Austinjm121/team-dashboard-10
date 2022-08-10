@@ -35,13 +35,11 @@ These instructions will get you a copy of the project up and running on your loc
 | --- | 
 | 24+ | 
 
-## Deployment
+## Usage
 
-In addition to being deployed on heroku for a limited time, you can locally host this application through one of your local device's PORTs!
+1. Run npm start or node index.js to begin the prompts.
 
-1. Run npm start in the command line/terminal. Once the server is running, 
-
-2. Navigate to localhost:{'selected PORT'} in your desired browser
+2. Go through the options listed.
 
 ## Authors
 
